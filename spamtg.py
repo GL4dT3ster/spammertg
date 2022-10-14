@@ -1,4 +1,4 @@
-import telethon.sync import TelegramClient, events
+import telethon.sync; import TelegramClient, events
 
 #from pyotp import TOTP
 
