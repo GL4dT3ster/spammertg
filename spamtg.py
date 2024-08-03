@@ -14,7 +14,7 @@ hashtg = input('api_hash аккаунта: ')
 iptg = int(input("api_id приложения: "))
 px = int(input("Кол-во сообщений: "))
 idp = input("ID пользователя: ")
-mes = imput("Текст сообщения: ")
+mes = input("Текст сообщения: ")
 
 api_id = iptg
 api_hash = hashtg
